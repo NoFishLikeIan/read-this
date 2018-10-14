@@ -4,7 +4,7 @@ My personal reading list.
 
 ---
 
-### Purpose
+## Purpose
 
 Just a simple collection of random paper, articles and blog post and stuff that I am planning on reading. You might say:
 
@@ -12,13 +12,17 @@ Just a simple collection of random paper, articles and blog post and stuff that 
 
 And I'd say, no. So let's get going.
 
-### Strucutre
+## Structure
 
 The structure should be as follows:
 
 - [ ] [_Title with hyperlink to paper/blog_](https://example.com/) - Short description, _Personal thoughts_ / [_Extra hyperlinked material_](https://example.com)
 
+---
+
 ## My reading list
+
+### Articles
 
 - [ ] [_Logical induction_](https://arxiv.org/pdf/1609.03543.pdf) - Reasoning under logical uncertainy, _how to deal with uncertainty in AI systems from a safety stand point and interesting logical stuff_ / [_Video_](https://www.youtube.com/watch?v=gDqkCxYYDGk)
 
