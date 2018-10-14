@@ -28,7 +28,10 @@ The structure should be as follows:
 
 - [ ] [_To mock a mockingbird_](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird) - Logical puzzles, _Focus on logical structures such as lambda functions, useful for functional programming ideas_ / [video](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
 
-- [ ] [Sense and Nonsense](https://www.prospectmagazine.co.uk/magazine/bryan-magee-profundity-obscurity-bad-writing) - obscurity must never be equated with profundity, _an analytical perspective on some the writing capabilties of philosopers, then it is Magee so he can say whatever he wants_
+- [ ] [Sense and Nonsense](https://www.prospectmagazine.co.uk/magazine/bryan-magee-profundity-obscurity-bad-writing) - obscurity must never be equated with profundity, _an analytical perspective on some of the writing capabilties of philosopers, then it is Magee so he can say whatever he wants_
 
 - [ ] [Reimagining of Schrödinger’s cat](https://www.nature.com/articles/d41586-018-06749-8) - In a multi-‘cat’ experiment, the textbook interpretation of quantum theory seems to lead to contradictory pictures of reality, physicists claim.
+
 - [ ] [Kierkegaard On Escaping the Cult of Busyness](https://iainews.iai.tv/articles/how-kierkegaards-idea-of-idleness-can-help-us-diagnose-21st-century-busyness-auid-1150?) - Busyness is the sign of a deeply unhappy person, and a way to flee from one's own life
+
+- [ ] [Profitless business model fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative) - ,_some interesting perspective on Amazon's business model, on the quant. side of things_
