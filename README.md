@@ -44,14 +44,12 @@ The structure should be as follows:
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
 
+- [ ] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
+
 ### Theory books
 
 - [ ] [_Physically Based Rendering_](http://www.pbr-book.org/3ed-2018/contents.html) - Long book about rendering with C(#/++) but more generally functions etc., _interesting to tell how to get along_
 
 - [ ] [_Probabilistic programming_](http://click.revue.email/wf/click?upn=uoSvyDIrlYZBTfKX9q-2FuqLj-2B5jXID5Sk8S-2FgDa680I4JCQ256Bb14RK79DzyVNP-2B0sJdGRL5SildLFryYTPhmc6pgG0cLgrtLeInEkpZ-2FUHhLVffmJfs-2BZRaGfQCFFchj39eURFOQsFgAikevsxCkdMSZP6zENAx-2FEGfOVaaFLo-3D_EewvicOlyuKQdTY-2FN1EhW2xbLRcX0wSg-2FLgBc4p8xeKwpe-2BX2pyErSjeKbtcNdQtZVPoWLAuywGs9iXBKeRxtFgmYVidSt5N-2B2o4KtYfm4EpGEqYHWvC-2Bj1I4emzlrJ4ZsDCjll5S0R-2BQiBljJSIlVPdFk5EoamSzwYOa1IFSR9ULlStzGIBlMSK2JLXZMv-2FtP5PkjbdUWOaHCp7JT2izfOGcuECQQAewBKVsWajEEMb-2FUI6jRz8iHrbV0QouZ6CnWfyy9gJCCcqAMDFdXMeGXxWXHb7RZ7YyEjYkIjF0Wc1zsv7-2BPJT-2FHeL8-2BbPIa7t) - _Another long book about probabilistic programming, the plan is to pick it [up with the Julia](http://turing.ml/?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter)_
-
-### Videos
-
-- [ ] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
 
 ### Books
