@@ -58,7 +58,7 @@ The structure should be as follows:
 
 - [ ] An introduction to manifolds - ,_Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
 
-- [ ] Purely functional data structures - _Following the magic of the lecture slides afromentioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
+- [ ] Purely functional data structures - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
 
 ### Podcasts
 
