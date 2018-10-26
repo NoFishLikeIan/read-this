@@ -112,3 +112,74 @@ const Beq = (p: booleanType) => (q: booleanType) =>
 //   |                         |   | -> False -Select Second | False
 //   | -> False -Select Second |   | -> True -Select first   | False
 //   |                         |   | -> False -Select Second | True
+
+// -------- Numbers
+
+const once = (f: (n: any) => any) => a => f(a); // This is equivalent to Identity*!
+const twice = (f: (n: any) => any) => a => f(f(a));
+const thrice = (f: (n: any) => any) => a => f(f(f(a)));
+// .... etc
+
+const zero = (f: (n: any) => any) => a => a; // This is equivalent to False!
+
+// ---------- Dinamically defining these functions -> Succession number: Succ(n) => n+1
+const succ = n => f => a => f(n(f))(a); // it takes a function n and applies the original function but with an extra f
+const jsnum = n => n(x => x + 1)(0); // <--- this is just a visual rapresentation in javascript of church numbers.
+const [n0, n1, n2, n3] = [zero, once, twice, thrice]; // etc...
+
+console.log(jsnum(succ(n0)) === n1);
+
+// ---------- Bluebird!
+
+const B = f => g => a => f(g(a)); // right to left composition
+
+console.log(B(Not)(Not)(True) === True); // indipendent of the direction
+// What about direction dipendency?
+
+console.log(B(jsnum)(succ)(n1) === n2); // right to left! in haskell this is the . -> odd = not . even
+
+// Note that the succ is SUCC := λnf.Bf(nf)
+const succPrime = n => f => B(f)(n(f));
+
+// Binary addition! Two numbers addition
+// ADD := λnk.n SUCC k
+
+const add = n => k => n(succ)(k);
+const [n4, n5, n6, n7, n8] = [
+  add(n2)(n2),
+  add(n2)(n3),
+  add(n3)(n3),
+  add(add(n3)(n3))(n1),
+  add(add(n3)(n3))(n2)
+];
+// crazy
+
+// Multiplication
+// MULT := λnk.n(kf) = λnk.B n k ---> MULT = B alpha equivalence
+
+const mult = B;
+
+// Power
+// POW := λnk.kn = Thrust
+
+const T = n => k => k(n);
+const pow = T;
+
+console.log(jsnum(pow(n3)(n2)) === jsnum(n8)); // > true
+
+// IsZero -> checking if it is zero mate
+// is0 := λn.n K F T -> if n == 0 it skips the first function and return true, else it does K F (a) = F for all a
+
+const K = a => b => a;
+const is0 = n => n(K(False))(True);
+
+// Subtraction
+// PRED :=
+
+// ------- Basic data Strucutre
+// Vireo/Closures -> V := λ a b f . f a b
+// This pairs two numbers together, a and b, and waits for a function to extract those values.
+
+const V = a => b => f => f(a)(b);
+// e.g. V I M
+// V I M (K) = K(I)(M) = I
