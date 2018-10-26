@@ -54,11 +54,11 @@ The structure should be as follows:
 
 ### Books (I have these physical of pdf)
 
-- [ ] [_The art of prolog_] - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
+- [ ] The art of prolog - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
 
-- [ ] [_An introduction to manifolds_] - ,_Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
+- [ ] An introduction to manifolds - ,_Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
 
-- [ ] [_Purely functional data structures_] - _Following the magic of the lecture slides afromentioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
+- [ ] Purely functional data structures - _Following the magic of the lecture slides afromentioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
 
 ### Podcasts
 
