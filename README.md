@@ -40,6 +40,8 @@ The structure should be as follows:
 
 - [ ] [_Profitless business model fallacy_](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative) - ,_some interesting perspective on Amazon's business model, on the quant. side of things_
 
+- [x] [_The bus paradox_](http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/) - _A bus will have constant waiting time, regardless of when we get there, see collateral code._
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
