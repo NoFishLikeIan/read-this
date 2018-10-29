@@ -46,7 +46,7 @@ The structure should be as follows:
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
 
-- [ ] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
+- [x] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
 
 ### Theory books
 
