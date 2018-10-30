@@ -48,6 +48,8 @@ The structure should be as follows:
 
 - [x] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
 
+- [ ] [_eight problems for the mirror neuron theory of action understanding in monkeys and humans_](https://www.mitpressjournals.org/doi/pdf/10.1162/jocn.2009.21189) - The evidence in support of one of these theories, namely, that mirror neurons provide the basis of action understanding, _A common, famous and interesting paper that could maybe introduce me to cognitive neuropsychology_
+
 ### Theory books
 
 - [ ] [_Physically Based Rendering_](http://www.pbr-book.org/3ed-2018/contents.html) - Long book about rendering with C(#/++) but more generally functions etc., _interesting to tell how to get along_
