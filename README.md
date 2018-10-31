@@ -42,7 +42,7 @@ The structure should be as follows:
 
 - [x] [_The bus paradox_](http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/) - _A bus will have constant waiting time, regardless of when we get there, see collateral code._
 
-- [ ][_how applied mathematics became pure_](http://www.pgrim.org/philosophersannual/pa28articles/maddyhowapplied.pdf) - The goal is to better understand the role of mathematics in contemporary science, _a great read on the history of mathematics from 2008_
+- [ ] [_how applied mathematics became pure_](http://www.pgrim.org/philosophersannual/pa28articles/maddyhowapplied.pdf) - The goal is to better understand the role of mathematics in contemporary science, _a great read on the history of mathematics from 2008_
 
 ### Videos
 
