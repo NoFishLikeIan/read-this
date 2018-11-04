@@ -42,7 +42,9 @@ The structure should be as follows:
 
 - [x] [_The bus paradox_](http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/) - _A bus will have constant waiting time, regardless of when we get there, see collateral code._
 
-- [ ] [_how applied mathematics became pure_](http://www.pgrim.org/philosophersannual/pa28articles/maddyhowapplied.pdf) - The goal is to better understand the role of mathematics in contemporary science, _a great read on the history of mathematics from 2008_
+- [ ] [_How applied mathematics became pure_](http://www.pgrim.org/philosophersannual/pa28articles/maddyhowapplied.pdf) - The goal is to better understand the role of mathematics in contemporary science, _a great read on the history of mathematics from 2008_
+
+- [ ] [_Boids pseudo-code_](http://www.kfish.org/boids/pseudocode.html) - A pseudo-code implementation of the famouse [boids algorithm](http://www.red3d.com/cwr/boids/), _it would be nice to implement this in Typescript (along the lines of [nkit](https://github.com/nkint/boids-ts)), Julia (with [Compose3d](https://github.com/rohitvarkey/Compose3D.jl))and Python (with [Panda3d](http://www.panda3d.org/))_
 
 ### Videos
 
