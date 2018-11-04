@@ -71,3 +71,9 @@ The structure should be as follows:
 ### Podcasts
 
 - [ ] [_Talk Python to me_](https://talkpython.fm/) - _Just keep on going with python! It thought you everything, don't abandon it now!_
+
+### What is artificial in intelligence
+
+- [ ] [_Critical Machine Learning_](https://github.com/rockita/criticalML) - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers, _a collection of reads to critically evaluate the use of "glorified statistics" technically and meta-technically_
+
+- [ ] [_Awful Artificla Intelligence_](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society, _hire an ethicist for christ sake_
