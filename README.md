@@ -46,6 +46,10 @@ The structure should be as follows:
 
 - [ ] [_Boids pseudo-code_](http://www.kfish.org/boids/pseudocode.html) - A pseudo-code implementation of the famouse [boids algorithm](http://www.red3d.com/cwr/boids/), _it would be nice to implement this in Typescript (along the lines of [nkit](https://github.com/nkint/boids-ts)), Julia (with [Compose3d](https://github.com/rohitvarkey/Compose3D.jl))and Python (with [Panda3d](http://www.panda3d.org/))_
 
+- [ ] [_pico.js: a face-detection library in 200 lines of JavaScript_](https://tkv.io/posts/picojs-intro/) - Face detection based on [2013 by Markuš et al.](http://arxiv.org/abs/1305.4537)
+
+- [ ] [_Slicing the earth -> Euler spiral_](https://arxiv.org/pdf/1202.3033.pdf) - Code this weird projection up, thanks to this [video](https://www.youtube.com/watch?v=D3tdW9l1690)
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
