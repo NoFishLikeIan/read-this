@@ -50,6 +50,8 @@ The structure should be as follows:
 
 - [ ] [_Slicing the earth -> Euler spiral_](https://arxiv.org/pdf/1202.3033.pdf) - Code this weird projection up, thanks to this [video](https://www.youtube.com/watch?v=D3tdW9l1690)
 
+- [ ] [_Unsupervised Neural Networks Fight in a Minimax Game_](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html) - Artificial curiosity in Adversarial Learning, _Salty about GANs_
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
