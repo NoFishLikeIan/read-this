@@ -74,12 +74,20 @@ The structure should be as follows:
 
 - [ ] Purely functional data structures - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
 
+- [ ] [_The imposter's handbook_](https://www.goodreads.com/book/show/31572054-the-imposter-s-handbook) - _A primer for self-taught programmers_
+
 ### Podcasts
 
 - [ ] [_Talk Python to me_](https://talkpython.fm/) - _Just keep on going with python! It thought you everything, don't abandon it now!_
+
+- [ ] [Twenty Thousand Hertz](https://www.20k.org/archive) - _Podcast on regarding sounds, original and intense. Love it_
 
 ### What is artificial in intelligence
 
 - [ ] [_Critical Machine Learning_](https://github.com/rockita/criticalML) - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers, _a collection of reads to critically evaluate the use of "glorified statistics" technically and meta-technically_
 
 - [ ] [_Awful Artificla Intelligence_](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society, _hire an ethicist for christ sake_
+
+### Repos
+
+- [ ] [_Mostly adeguate_](https://github.com/MostlyAdequate/mostly-adequate-guide) - _Guide on FP in JS_
