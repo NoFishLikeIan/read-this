@@ -91,3 +91,5 @@ The structure should be as follows:
 ### Repos
 
 - [ ] [_Mostly adeguate_](https://github.com/MostlyAdequate/mostly-adequate-guide) - _Guide on FP in JS_
+
+- [ ] [_Build it yourself_](https://github.com/danistefanovic/build-your-own-x) - _A comprehensive list to understand stuff better._
