@@ -93,3 +93,8 @@ The structure should be as follows:
 - [ ] [_Mostly adeguate_](https://github.com/MostlyAdequate/mostly-adequate-guide) - _Guide on FP in JS_
 
 - [ ] [_Build it yourself_](https://github.com/danistefanovic/build-your-own-x) - _A comprehensive list to understand stuff better._
+
+### Courses
+
+- [ ] [Logic Programming
+      ](https://www3.risc.jku.at/education/courses/ws2017/logic-programming/) - _A nice intro to logic programming with prolog_
