@@ -54,13 +54,17 @@ The structure should be as follows:
 
 - [ ] [_The power of prolog_](https://www.metalevel.at/prolog) - Nuff said, prolog and its amazing applications!
 
+- [ ] [_Eight problems for the mirror neuron theory of action understanding in monkeys and humans_](https://www.mitpressjournals.org/doi/pdf/10.1162/jocn.2009.21189) - The evidence in support of one of these theories, namely, that mirror neurons provide the basis of action understanding, _A common, famous and interesting paper that could maybe introduce me to cognitive neuropsychology_
+
+- [x] [_The Vietnam of computer science_](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/) - A bit of history of Vietnam and... fuck ORMs.
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
 
 - [x] [_Clojure and mental focus and machine learning and what else_](https://www.youtube.com/watch?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter&v=jpFveXUe65I) - Quick talk
 
-- [ ] [_Eight problems for the mirror neuron theory of action understanding in monkeys and humans_](https://www.mitpressjournals.org/doi/pdf/10.1162/jocn.2009.21189) - The evidence in support of one of these theories, namely, that mirror neurons provide the basis of action understanding, _A common, famous and interesting paper that could maybe introduce me to cognitive neuropsychology_
+- [ ] [_Profunctor Optics for state management_](https://www.youtube.com/watch?v=VdiJ_vgVUgs) - Quick talk on how to use profunctors as functional state management. It would be cool to do it with `monocle-ts`.
 
 ### Theory books
 
