@@ -60,6 +60,10 @@ The structure should be as follows:
 
 - [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Just a reactive programming tutorial, as they say*learning it is hard, even harder by the lack of good material.*
 
+- [ ] [_On Mitchell Feigenbaum_](https://blog.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/) - _A nice description and summary of Feigenbaum's work and life by Wolphram_
+
+- [x] [_Algebraic Effects for the Rest of Us_](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) - _Nice explanation (and simplification) on Algebraic effects_
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
