@@ -58,11 +58,13 @@ The structure should be as follows:
 
 - [x] [_The Vietnam of computer science_](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/) - A bit of history of Vietnam and... fuck ORMs.
 
-- [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Just a reactive programming tutorial, as they say*learning it is hard, even harder by the lack of good material.*
+- [ ] [_The introduction to Reactive Programming you've been missing_](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Just a reactive programming tutorial, as they say*learning it is hard, even harder by the lack of good material.*
 
 - [ ] [_On Mitchell Feigenbaum_](https://blog.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/) - _A nice description and summary of Feigenbaum's work and life by Wolphram_
 
 - [x] [_Algebraic Effects for the Rest of Us_](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) - _Nice explanation (and simplification) on Algebraic effects_
+
+- [ ] [_My god, it's full of dots!_](http://bit-player.org/2019/my-god-its-full-of-dots) - "It will fill with a jolly tableau of colored disks" - _You are reading through [Fractalize that](https://www.amazon.com/Fractalize-That-Statistical-Mathematics-Applications/dp/9813275162)_ and you get the Riemann hypothesis, talk about hype.
 
 ### Videos
 
