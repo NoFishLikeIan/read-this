@@ -66,6 +66,8 @@ The structure should be as follows:
 
 - [ ] [_My god, it's full of dots!_](http://bit-player.org/2019/my-god-its-full-of-dots) - "It will fill with a jolly tableau of colored disks" - _You are reading through [Fractalize that](https://www.amazon.com/Fractalize-That-Statistical-Mathematics-Applications/dp/9813275162)_ and you get the Riemann hypothesis, talk about hype.
 
+- [x] [_Abnormal stagnation in physics_](http://backreaction.blogspot.com/2018/11/the-present-phase-of-stagnation-in.html) - A small post on the state of stagnation in physics, with associated papers.
+
 ### Videos
 
 - [x] [_Zizek on Coca-cola_](https://www.youtube.com/watch?v=SJOhtDmyy-4&feature=youtu.be) - "...from sublime to excremental dimension", _interpretation of Coca-cola as a "meta-commodity"_
@@ -114,5 +116,4 @@ The structure should be as follows:
 
 ### Courses
 
-- [ ] [Logic Programming
-      ](https://www3.risc.jku.at/education/courses/ws2017/logic-programming/) - _A nice intro to logic programming with prolog_
+- [ ] [Logic Programming](https://www3.risc.jku.at/education/courses/ws2017/logic-programming/) - _A nice intro to logic programming with prolog_
