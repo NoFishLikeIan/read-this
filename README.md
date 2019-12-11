@@ -70,7 +70,7 @@ The structure should be as follows:
 
 - [ ] [_Why the Laws of Physics Are Inevitable_](https://www.quantamagazine.org/how-simple-rules-bootstrap-the-laws-of-physics-20191209/) - By considering simple symmetries, physicists working on the “bootstrap” have rederived the four known forces. “There’s just no freedom in the laws of physics,” said one.
 
-- [ ] [_How to turn the complex mathematics of vector calculus into simple pictures_](https://www.technologyreview.com/s/614704/how-to-turn-the-complex-mathematics-of-vector-calculus-into-simple-pictures/) - _Diagrams for vector calculus similar to Feynman's diagrams_
+- [x] [_How to turn the complex mathematics of vector calculus into simple pictures_](https://www.technologyreview.com/s/614704/how-to-turn-the-complex-mathematics-of-vector-calculus-into-simple-pictures/) - Really cool stuff, check the [paper](https://arxiv.org/pdf/1911.00892.pdf) out too, _Diagrams for vector calculus similar to Feynman's diagrams_
 
 ### Videos
 
@@ -92,11 +92,11 @@ The structure should be as follows:
 
 ### Books (I have these physical of pdf)
 
-- [ ] The art of prolog - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
+- [ ] _The art of prolog_ - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
 
-- [ ] An introduction to manifolds - ,_Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
+- [ ] _An introduction to manifolds_ - _Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
 
-- [ ] Purely functional data structures - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
+- [ ] _Purely functional data structures_ - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
 
 - [ ] [_The imposter's handbook_](https://www.goodreads.com/book/show/31572054-the-imposter-s-handbook) - _A primer for self-taught programmers_
 
