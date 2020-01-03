@@ -66,11 +66,17 @@ The structure should be as follows:
 
 - [ ] [_My god, it's full of dots!_](http://bit-player.org/2019/my-god-its-full-of-dots) - "It will fill with a jolly tableau of colored disks" - _You are reading through [Fractalize that](https://www.amazon.com/Fractalize-That-Statistical-Mathematics-Applications/dp/9813275162)_ and you get the Riemann hypothesis, talk about hype.
 
-- [ ] [_Abnormal stagnation in physics_](http://backreaction.blogspot.com/2018/11/the-present-phase-of-stagnation-in.html) - _A small post on the state of stagnation in physics, with associated papers._
+- [x] [_Abnormal stagnation in physics_](http://backreaction.blogspot.com/2018/11/the-present-phase-of-stagnation-in.html) - _A small post on the state of stagnation in physics, with associated papers._
 
 - [ ] [_Why the Laws of Physics Are Inevitable_](https://www.quantamagazine.org/how-simple-rules-bootstrap-the-laws-of-physics-20191209/) - By considering simple symmetries, physicists working on the “bootstrap” have rederived the four known forces. “There’s just no freedom in the laws of physics,” said one.
 
 - [x] [_How to turn the complex mathematics of vector calculus into simple pictures_](https://www.technologyreview.com/s/614704/how-to-turn-the-complex-mathematics-of-vector-calculus-into-simple-pictures/) - Really cool stuff, check the [paper](https://arxiv.org/pdf/1911.00892.pdf) out too, _Diagrams for vector calculus similar to Feynman's diagrams_
+
+- [x] [_Better intuition for information theory_](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory) - An article on a realy nice set theory approach to information theory, mapping common concepts to set notation.
+
+- [x] [_Adinkras and Nature_](https://web.archive.org/web/20160418235930/http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438) - A nice article explaining the construction of Adinkras and its relationship to mathematical concepts.
+
+- [ ] [_Normalizing Flows_](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html) - A simple introduction to the theory of normalizing flows.
 
 ### Videos
 
