@@ -76,7 +76,9 @@ The structure should be as follows:
 
 - [x] [_Adinkras and Nature_](https://web.archive.org/web/20160418235930/http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438) - A nice article explaining the construction of Adinkras and its relationship to mathematical concepts.
 
-- [ ] [_Normalizing Flows_](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html) - A simple introduction to the theory of normalizing flows.
+- [ ] [_Normalizing Flows_](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html) - A simple introduction to the theory of normalizing flows. Add also [_this_](https://arxiv.org/pdf/1908.09257.pdf) literature review.
+
+
 
 ### Videos
 
@@ -96,7 +98,7 @@ The structure should be as follows:
 
 - [x] [_Nonlinear Dynamics And Chaos_ - Strogatz](http://www.hds.bme.hu/~fhegedus/Strogatz%20-%20Nonlinear%20Dynamics%20and%20Chaos.pdf) - Applications to Physics, Biology, Chemistry, and Engineering
 
-### Books (I have these physical of pdf)
+### Books
 
 - [ ] _The art of prolog_ - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
 
@@ -112,11 +114,6 @@ The structure should be as follows:
 
 - [ ] [Twenty Thousand Hertz](https://www.20k.org/archive) - _Podcast on regarding sounds, original and intense. Love it_
 
-### What is artificial in intelligence
-
-- [ ] [_Critical Machine Learning_](https://github.com/rockita/criticalML) - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers, _a collection of reads to critically evaluate the use of "glorified statistics" technically and meta-technically_
-
-- [ ] [_Awful Artificla Intelligence_](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society, _hire an ethicist for christ sake_
 
 ### Repos
 
@@ -126,6 +123,13 @@ The structure should be as follows:
 
 - [ ] [_Philosophize_](https://github.com/Jfaler/Philosophize) - _Collection of philosophy tools_
 
+
+- [ ] [_Critical Machine Learning_](https://github.com/rockita/criticalML) - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers, _a collection of reads to critically evaluate the use of "glorified statistics" technically and meta-technically_
+
+- [ ] [_Awful Artificla Intelligence_](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society, _hire an ethicist for christ sake_
+
 ### Courses
 
 - [ ] [Logic Programming](https://www3.risc.jku.at/education/courses/ws2017/logic-programming/) - _A nice intro to logic programming with prolog_
+
+- [ ] [_Introduction to complex analysis_](https://www.coursera.org/learn/complex-analysis)
