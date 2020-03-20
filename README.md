@@ -78,6 +78,7 @@ The structure should be as follows:
 
 - [ ] [_Normalizing Flows_](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html) - A simple introduction to the theory of normalizing flows. Add also [_this_](https://arxiv.org/pdf/1908.09257.pdf) literature review.
 
+- [x] [_When is one thing equal to some other thing?_](http://people.math.harvard.edu/~mazur/preprints/when_is_one.pdf) - In the notion of equality we find the most natural justification for category theory.
 
 
 ### Videos
