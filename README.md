@@ -132,4 +132,6 @@ The structure should be as follows:
 
 - [ ] [Logic Programming](https://www3.risc.jku.at/education/courses/ws2017/logic-programming/) - _A nice intro to logic programming with prolog_
 
-- [ ] [_Introduction to complex analysis_](https://www.coursera.org/learn/complex-analysis)
+- [ ] [_Introduction to complex analysis_](https://www.coursera.org/learn/complex-analysis) - _f: C \in C; g = f o f o f..._
+
+- [ ] [_Programming with categories_](https://www.youtube.com/watch?v=Y5YCE_mVjvg&list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS&ab_channel=Topos) - _Bartosz Milewski & co. teach you programming with categories, what else do you want?_, find the [syllabus](http://brendanfong.com/programmingcats.html) 
