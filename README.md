@@ -24,7 +24,7 @@ The structure should be as follows:
 
 ### Articles
 
-- [ ] [_Logical induction_](https://arxiv.org/pdf/1609.03543.pdf) - Reasoning under logical uncertainy, _how to deal with uncertainty in AI systems from a safety stand point and interesting logical stuff_ / [_Video_](https://www.youtube.com/watch?v=gDqkCxYYDGk)
+- [ ] [_Logical induction_](https://arxiv.org/pdf/1609.03543.pdf) - Reasoning under logical uncertainty, _how to deal with uncertainty in AI systems from a safety stand point and interesting logical stuff_ / [_Video_](https://www.youtube.com/watch?v=gDqkCxYYDGk)
 
 - [x] [_LIME_](https://arxiv.org/pdf/1602.04938.pdf) - Explaining the prediction of any classifier, _How to approximate the neighborhood of the decision function of classifiers_ /[_Github_](https://github.com/marcotcr/lime)
 
@@ -32,7 +32,7 @@ The structure should be as follows:
 
 - [x] [_To mock a mockingbird_](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird) - Logical puzzles, _Focus on logical structures such as lambda functions, useful for functional programming ideas_ / [video](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
 
-- [x] [_Sense and Nonsense_](https://www.prospectmagazine.co.uk/magazine/bryan-magee-profundity-obscurity-bad-writing) - obscurity must never be equated with profundity, _an analytical perspective on some of the writing capabilties of philosopers, then it is Magee so he can say whatever he wants_
+- [x] [_Sense and Nonsense_](https://www.prospectmagazine.co.uk/magazine/bryan-magee-profundity-obscurity-bad-writing) - obscurity must never be equated with profundity, _an analytical perspective on some of the writing capabilities of philosophers, then it is Magee so he can say whatever he wants_
 
 - [ ] [_Reimagining of Schrödinger’s cat_](https://www.nature.com/articles/d41586-018-06749-8) - In a multi-‘cat’ experiment, the textbook interpretation of quantum theory seems to lead to contradictory pictures of reality, physicists claim.
 
@@ -44,7 +44,7 @@ The structure should be as follows:
 
 - [ ] [_How applied mathematics became pure_](http://www.pgrim.org/philosophersannual/pa28articles/maddyhowapplied.pdf) - The goal is to better understand the role of mathematics in contemporary science, _a great read on the history of mathematics from 2008_
 
-- [ ] [_Boids pseudo-code_](http://www.kfish.org/boids/pseudocode.html) - A pseudo-code implementation of the famouse [boids algorithm](http://www.red3d.com/cwr/boids/), _it would be nice to implement this in Typescript (along the lines of [nkit](https://github.com/nkint/boids-ts)), Julia (with [Compose3d](https://github.com/rohitvarkey/Compose3D.jl))and Python (with [Panda3d](http://www.panda3d.org/))_
+- [ ] [_Boids pseudo-code_](http://www.kfish.org/boids/pseudocode.html) - A pseudo-code implementation of the famous [boids algorithm](http://www.red3d.com/cwr/boids/), _it would be nice to implement this in Typescript (along the lines of [nkit](https://github.com/nkint/boids-ts)), Julia (with [Compose3d](https://github.com/rohitvarkey/Compose3D.jl))and Python (with [Panda3d](http://www.panda3d.org/))_
 
 - [ ] [_pico.js: a face-detection library in 200 lines of JavaScript_](https://tkv.io/posts/picojs-intro/) - Face detection based on [2013 by Markuš et al.](http://arxiv.org/abs/1305.4537)
 
@@ -72,7 +72,7 @@ The structure should be as follows:
 
 - [x] [_How to turn the complex mathematics of vector calculus into simple pictures_](https://www.technologyreview.com/s/614704/how-to-turn-the-complex-mathematics-of-vector-calculus-into-simple-pictures/) - Really cool stuff, check the [paper](https://arxiv.org/pdf/1911.00892.pdf) out too, _Diagrams for vector calculus similar to Feynman's diagrams_
 
-- [x] [_Better intuition for information theory_](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory) - An article on a realy nice set theory approach to information theory, mapping common concepts to set notation.
+- [x] [_Better intuition for information theory_](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory) - An article on set theory approach to information theory, mapping common concepts to set notation.
 
 - [x] [_Adinkras and Nature_](https://web.archive.org/web/20160418235930/http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438) - A nice article explaining the construction of Adinkras and its relationship to mathematical concepts.
 
@@ -104,11 +104,11 @@ The structure should be as follows:
 
 ### Books
 
-- [ ] _The art of prolog_ - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
+- [ ] _The art of prolog_ - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now exercises](https://github.com/mrkkrp/lpnes)_
 
 - [ ] _An introduction to manifolds_ - _Great book on manifolds math, with a focus on Riemann structures and Machine Learning applications_
 
-- [ ] _Purely functional data structures_ - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
+- [ ] _Purely functional data structures_ - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with functions! Did the closure..._
 
 - [ ] [_The imposter's handbook_](https://www.goodreads.com/book/show/31572054-the-imposter-s-handbook) - _A primer for self-taught programmers_
 
@@ -123,7 +123,7 @@ The structure should be as follows:
 
 ### Repos
 
-- [ ] [_Mostly adeguate_](https://github.com/MostlyAdequate/mostly-adequate-guide) - _Guide on FP in JS_
+- [ ] [_Mostly adequate_](https://github.com/MostlyAdequate/mostly-adequate-guide) - _Guide on FP in JS_
 
 - [ ] [_Build it yourself_](https://github.com/danistefanovic/build-your-own-x) - _A comprehensive list to understand stuff better._
 
