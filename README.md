@@ -99,6 +99,9 @@ The structure should be as follows:
 
 - [x] [_Nonlinear Dynamics And Chaos_ - Strogatz](http://www.hds.bme.hu/~fhegedus/Strogatz%20-%20Nonlinear%20Dynamics%20and%20Chaos.pdf) - Applications to Physics, Biology, Chemistry, and Engineering
 
+- [x] [_Fractal Geometry of Urban Patterns and their Morphogenesis_](http://downloads.hindawi.com/journals/ddns/1998/434163.pdf) - _Pattern formation of cities via fractal geometry_
+
+
 ### Books
 
 - [ ] _The art of prolog_ - Programming in prolog, _Why not learning the best logical programming language there is? Aid this with [learn prolog now excercises](https://github.com/mrkkrp/lpnes)_
@@ -108,6 +111,8 @@ The structure should be as follows:
 - [ ] _Purely functional data structures_ - _Following the magic of the lecture slides aforementioned, it is time to figure out how the fuck can you encode data structures with fuctions! Did the closure..._
 
 - [ ] [_The imposter's handbook_](https://www.goodreads.com/book/show/31572054-the-imposter-s-handbook) - _A primer for self-taught programmers_
+
+- [ ] [_Fractal Cities_](http://www.fractalcities.org/book/) - _Simulating and analyzing cities by their fractal measure_
 
 ### Podcasts
 
